@@ -1,0 +1,9 @@
+* 9052247 fix:Nofileエラーの解消
+* a1f0442 fix:scaffoldにてPages関連のファイルを削除
+* b827ed1 add: Renderへのwebhook設定の確認のためにテストプッシュ
+* 2a0bc7b fix:モック画像をerbファイルに差し替え
+| * c3c828b fix: Minitest関連ファイルを削除してRSpecを導入
+| * 05d2ef5 add: scaffoldでusers、tasksを作成
+|/  
+* 657e7c7 add:renderへのデプロイ設定
+* 23db42e add:環境構築後にhttp://localhost:3000で正常表示を確認
